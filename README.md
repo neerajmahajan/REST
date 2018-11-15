@@ -8,5 +8,5 @@
   1. API should be production ready and independendtly deployable. 
   1. API should suppport different formats of response (JSON,YAML and XML) to different clients.
   1. Implement HATEOS.
-  1. Create multiple branches for different implementation(Spring boot and  Spring ).
+  1. Create multiple branches for different implementation(Spring boot,Spring, Python etc ).
   1. Implement with easest approach first.
